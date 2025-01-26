@@ -27,7 +27,6 @@ The data used in this project is based on the [Superstore Sales dataset]( https:
 - Region
 - Shipping Mode
 - Order Date
-- cost
 
 ## Tools Used
 
@@ -41,3 +40,5 @@ The data used in this project is based on the [Superstore Sales dataset]( https:
    ```bash
    git clone https://github.com/Rushi029/superstore-sales-analysis-dashboard.git
 
+## Contact
+-For questions or suggestions, feel free to open an issue or contact me directly at [rushirwani293@gmail.com].
