@@ -15,7 +15,7 @@ This repository contains the Power BI project for analyzing sales data from a fi
 
 ## Data Source
 
-The data used in this project is based on the [Superstore Sales dataset](Sample-Superstore.xls), which contains transactional data with columns such as:
+The data used in this project is based on the [Superstore Sales dataset]( https://github.com/Rushi029/SuperStore-Sales-Analysis-Dashboard.git/Sample-Superstore.xls), which contains transactional data with columns such as:
 
 - Order ID
 - Product Name
@@ -27,7 +27,7 @@ The data used in this project is based on the [Superstore Sales dataset](Sample-
 - Region
 - Shipping Mode
 - Order Date
-- 
+- cost
 
 ## Tools Used
 
